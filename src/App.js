@@ -9,7 +9,8 @@ function App() {
       <div classname="container">
         <div className="row">
           <div className="col">
-            <Button />
+            <Button title="CLICK ME" />
+            <Button title="DONT CLICK ME" />
           </div>
         </div>
 
